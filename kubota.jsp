@@ -10,6 +10,7 @@
 	<form action="KubotaServlet" method="post">
 		<input type="text" name="inputtext" />
 		<input type="submit" value="submit" />
+		テスト
 	</form>
 </body>
 </html>
