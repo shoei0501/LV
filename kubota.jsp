@@ -11,7 +11,7 @@
 		<input type="text" name="inputtext" />
 		<input type="submit" value="submit" />
 		テスト
-		oppata
+		oppatafdfd
 	</form>
 </body>
 </html>
