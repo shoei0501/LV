@@ -10,7 +10,10 @@
 	<form action="KubotaServlet" method="post">
 		<input type="text" name="inputtext" />
 		<input type="submit" value="submit" />
-		古屋
+		テスト
+		test7 helllo  haiskbsaks
+		test hello
+
 	</form>
 </body>
 </html>
